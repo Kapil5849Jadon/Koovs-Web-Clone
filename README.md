@@ -2,7 +2,7 @@
 
 # Deployed Link:
 
-`https://kapiljadon5849-koovs-clone.netlify.app/`
+<h2>https://kapiljadon5849-koovs-clone.netlify.app/</h2> 
 
 # Technology We Used :computer: 
 1. HTML5
