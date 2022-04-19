@@ -21,7 +21,7 @@ If you want to visit this cloned website then it is recommended to go through th
 
 ## Instructions to Run the Code 
 
-- Clone the repository ``
+- Clone the repository `https://github.com/Kapil5849Jadon/Koovs-Web-Clone.git`
 - Then Open the code in your VS code
 - At last Open the `index.html` with Live server
 
