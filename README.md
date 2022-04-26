@@ -1,8 +1,21 @@
-# This is a clone of koovs ecommerse website. this is construct week 2 project. We are a team of six members Chandan ,Monu, Chaitanya, suresh, Kapil, Moin
+# An e-commerce website for apparels for male female and kids.
 
 # Deployed Link:
 
 <h2>https://kapiljadon5849-koovs-clone.netlify.app/</h2> 
+
+# Snapshots
+![Screenshot (1298)](https://cdn-images-1.medium.com/max/1200/1*VfFYRVhg30nIdqO1cihJ_Q.png)
+
+![Screenshot (1300)](https://cdn-images-1.medium.com/max/1200/1*mmqF8wkqCoDG3ykkY5kQtQ.png)
+
+![Screenshot (1301)](https://cdn-images-1.medium.com/max/1800/1*ItSjMRsKKzd9kS0qSuzs6w.png)
+
+![Screenshot (1302)](https://cdn-images-1.medium.com/max/1800/1*VFKkSkiGQy6Ny8Vo0UgHcw.png)
+
+![Screenshot (1305)](https://cdn-images-1.medium.com/max/1800/1*ItSjMRsKKzd9kS0qSuzs6w.png)
+
+![Screenshot (1307)](https://cdn-images-1.medium.com/max/1800/1*Jlhk8sq5Z9TkqB0YqIrU2w.png)
 
 # Technology We Used :computer: 
 1. HTML5
