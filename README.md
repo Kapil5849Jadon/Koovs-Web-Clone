@@ -1,4 +1,4 @@
-# An e-commerce website for apparels for male female and kids.
+# An e-commerce website for apparels for both of male female.
 
 # Deployed Link:
 
