@@ -4,19 +4,6 @@
 
 <h2>https://kapiljadon5849-koovs-clone.netlify.app/</h2> 
 
-# Snapshots
-![Screenshot (1298)](https://cdn-images-1.medium.com/max/1200/1*VfFYRVhg30nIdqO1cihJ_Q.png)
-
-![Screenshot (1300)](https://cdn-images-1.medium.com/max/1200/1*mmqF8wkqCoDG3ykkY5kQtQ.png)
-
-![Screenshot (1301)](https://cdn-images-1.medium.com/max/1800/1*ItSjMRsKKzd9kS0qSuzs6w.png)
-
-![Screenshot (1302)](https://cdn-images-1.medium.com/max/1800/1*VFKkSkiGQy6Ny8Vo0UgHcw.png)
-
-![Screenshot (1305)](https://cdn-images-1.medium.com/max/1800/1*ItSjMRsKKzd9kS0qSuzs6w.png)
-
-![Screenshot (1307)](https://cdn-images-1.medium.com/max/1800/1*Jlhk8sq5Z9TkqB0YqIrU2w.png)
-
 # Technology We Used :computer: 
 1. HTML5
 2. CSS3
@@ -37,5 +24,20 @@ If you want to visit this cloned website then it is recommended to go through th
 - Clone the repository `https://github.com/Kapil5849Jadon/Koovs-Web-Clone.git`
 - Then Open the code in your VS code
 - At last Open the `index.html` with Live server
+
+
+# Snapshots
+![Screenshot (1298)](https://cdn-images-1.medium.com/max/1200/1*VfFYRVhg30nIdqO1cihJ_Q.png)
+
+![Screenshot (1300)](https://cdn-images-1.medium.com/max/1200/1*mmqF8wkqCoDG3ykkY5kQtQ.png)
+
+![Screenshot (1301)](https://cdn-images-1.medium.com/max/1800/1*ItSjMRsKKzd9kS0qSuzs6w.png)
+
+![Screenshot (1302)](https://cdn-images-1.medium.com/max/1800/1*VFKkSkiGQy6Ny8Vo0UgHcw.png)
+
+![Screenshot (1305)](https://cdn-images-1.medium.com/max/1800/1*ItSjMRsKKzd9kS0qSuzs6w.png)
+
+![Screenshot (1307)](https://cdn-images-1.medium.com/max/1800/1*Jlhk8sq5Z9TkqB0YqIrU2w.png)
+
 
 
